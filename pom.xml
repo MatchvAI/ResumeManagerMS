@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.resumeManagerMS</groupId>
-	<artifactId>ResumeManagerMS</artifactId>
+	<artifactId>UserMS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ResumeManagerMS</name>
-	<description>Resume Manager microservice</description>
+	<name>UserMS</name>
+	<description>User microservice</description>
 	<url/>
 	<licenses>
 		<license/>
